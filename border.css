@@ -1,0 +1,32 @@
+* {
+  background-color: lightgray;
+}
+
+.product-description {
+  width: 250px;
+  height: 98px;
+  padding: 10px;
+  overflow: scroll;
+}
+
+.product-title {
+  text-align: center;
+}
+
+.product {
+  width: 300px;
+  height: 180px;
+  display: block;
+  margin: auto;
+}
+
+.product-price {
+  padding: 10px;
+}
+
+body {
+  border-width: 10px;
+  border-style: solid;
+  border-image: url("border.png") 20 repeat;
+}
+
